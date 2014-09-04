@@ -1,5 +1,7 @@
-ode
-===
+Azul3D native/ode package.
+
+See documentation online:
+  http://azul3d.org/packages.html#native-ode
 
 This is a Go binding for the Open Dynamics Engine 3D physics library.  It
 sticks fairly closely to the development version of the ODE C API, with a few
